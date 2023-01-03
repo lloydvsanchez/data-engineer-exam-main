@@ -1,0 +1,11 @@
+map:
+  api_key: xxxxxxxxxxxxxxxxxxxxxxx
+  lat: 10.324305191982358
+  lng: 123.90877816686714
+source_file: ./var/synacy_nearby.json
+s3:
+  region: ap-southeast-1
+  access_key: xxxxxxxxxxxxxxxxxxxxxxxxxx
+  secret_access_key: xxxxxxxxxxxxxxxxxxx
+  bucket: synacy-recruitment-applicant-workspace
+  destination: data-engineer-exam/lloyd-sanchez/
